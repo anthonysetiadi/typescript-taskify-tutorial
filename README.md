@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Typescript Taskify Tutorial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Original project by @piyush-eon [https://github.com/piyush-eon]
+
+Full tutorial available on freeCodeCamp.org YT Channel here [https://www.youtube.com/watch?v=FJDVKeh7RJI]
 
 ## Available Scripts
 
