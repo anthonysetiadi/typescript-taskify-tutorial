@@ -1,8 +1,8 @@
 # React Typescript Taskify Tutorial
 
-Original project by @piyush-eon [https://github.com/piyush-eon]
+Original project by [@piyush-eon] (https://github.com/piyush-eon)
 
-Full tutorial available on freeCodeCamp.org YT Channel here [https://www.youtube.com/watch?v=FJDVKeh7RJI]
+Full tutorial available on freeCodeCamp.org YT Channel [here] (https://www.youtube.com/watch?v=FJDVKeh7RJI)
 
 ## Available Scripts
 
